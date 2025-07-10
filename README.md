@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/qr-code-component](https://github.com/Krrish105/qr-code-component)
-- Live Site URL: [http://Krrish105.github.io/qr-code-component](http://Krrish105.github.io/qr-code-component)
+- Solution URL: [https://github.com/karishma-dev/qr-code-component](https://github.com/karishma-dev/qr-code-component)
+- Live Site URL: [http://karishma-dev.github.io/qr-code-component](http://karishma-dev.github.io/qr-code-component)
 
 ## My process
 
@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
+- Frontend Mentor - [karishma-dev](https://www.frontendmentor.io/profile/karishma-dev)
 - Twitter - [_karishma10](https://twitter.com/_karishma10)
 - LinkedIn - [Karishma Garg](https://www.linkedin.com/in/karishma-garg-)
-- CodePen - [Krrish105](https://codepen.io/krrish105)
+- CodePen - [karishma-dev](https://codepen.io/karishma-dev)
